@@ -7,8 +7,8 @@
     <string name="all_movies">All Movies</string>
 
     <string name="movie_hint">Name…</string>
-    <string name="splash_text">Code by Khuong Viet Tai</string>
-    <string name="khuongviettai">Khuong Viet Tai</string>
+    <string name="splash_text">Sponsored by Netflix</string>
+    <string name="netflix">Netflix</string>
 
     // action
     <string name="action_ok">OK</string>
