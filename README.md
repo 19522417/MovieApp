@@ -1,3 +1,3 @@
 # MovieWebProApp
 
-App have 3 languages English, Vietnamese Chinese
+App has 3 languages English, Vietnamese Chinese
